@@ -7,7 +7,7 @@
 
 Dive into the fascinating world of 3D web graphics with this comprehensive introduction to Three.js and WebGL! 🚀
 
-![Project Demo](https://via.placeholder.com/800x400.png?text=ThreeJS+World+Demo)
+![Project Demo](https://img-blog.csdnimg.cn/08c9e94c274f4c6fb488f873b57a3aaf.gif)
 
 ## 🎨 Project Overview
 
